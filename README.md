@@ -6,4 +6,4 @@ Hi! I'm Md. Minhazul Mowla<br>Studying Computer Science & Engineering (CSE) at B
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DeadboyTALHA&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/DeadboyTalha317?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/DeadboyTalha?ext=heatmap)
